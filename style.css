@@ -3,3 +3,127 @@
     padding: 0;
     font-family: 'Karla', sans-serif;
 }
+.kh-container{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+.kh-center{
+    width: 80%;
+}
+.kh-left{
+    display: flex;
+    width: 45%;
+}
+.kh-buy{
+    text-align: center;
+}
+.kh-buy h1{
+    margin-right: 200px;
+    padding: 100px 0px;
+    font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #1D1F2E;
+}
+.kh-rig img{
+    padding-bottom: 15px;
+}
+.kh-lef img{
+    padding-right: 20px;
+}
+.kh-all1{
+    display: flex;
+}
+.kh-right h2{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #1D1F2E;
+}
+.kh-right h1{
+    font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 50px;
+color: #1D1F2E;
+}
+.kh-right p{
+    padding-top: 20px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: rgba(29, 31, 46, 0.7);
+}
+.kh-right button{
+    border: none;
+    background: #1D1F2E;
+    padding: 10px 30px;
+    margin-top: 40px;
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.kh-right button:hover{
+    background: #011082;
+}
+.kh-container1{
+    margin:  100px 0px;
+    height: 45vh;
+    background-size: 100% 100%;
+    background-image: url(/images/IMAGE\ \(29\).png);
+}
+.kh-image{
+    width: 30%;
+}
+.kh-bottom h2{
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #1D1F2E;
+}
+.kh-image p{
+    padding: 20px 0px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: rgba(29, 31, 46, 0.7);
+}
+.kh-image h3{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #1D1F2E;
+}
+.kh-all3{
+    display: flex;
+    justify-content: space-between;
+}
+.kh-image img{
+    width: 100%;
+}
+#by{
+    margin-left: 200px;
+}
+.kh-all2{
+    padding-bottom: 100px;
+}
