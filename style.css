@@ -3,3 +3,150 @@
     padding: 0;
     font-family: 'Karla', sans-serif;
 }
+.XM-center{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+.XM-powerful{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.XM-powerful .XM-center .XM-power-items h1{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 123px;
+}
+.XM-powerful .XM-center .XM-power-items p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px; 
+    text-align: center; 
+    color: rgba(29, 31, 46, 0.7);
+    margin-top: 16px;
+}
+.XM-powerful .XM-center .XM-power-items h5{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 21px;
+    color: #A25F4B;
+}
+.XM-powerful .XM-center .XM-power-items .XM-hr{
+    width: 133px;
+    color: #A25F4B33;
+    height: 2px;
+    margin: auto;
+    background: rgba(162, 95, 75, 0.2);
+}
+.XM-powerful .XM-power-items .XM-mug{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.XM-powerful .XM-power-items .XM-mug .XM-hr2 {
+    width: 30px;
+    height: 1px;
+    margin: 8px;
+    background: #cacacb;
+}
+.XM-powerful .XM-power-items .XM-mug h1{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 0px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #1D1F2E;
+}
+.XM-coffee .XM-coffee-item{
+    display: flex;
+    margin-top: 100px;
+    gap: 20px;
+    justify-content: center;
+}
+.XM-coffee .XM-coffee-item .XM-pink h1{
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #1D1F2E;
+margin-top: 35px;
+}
+.XM-coffee .XM-coffee-item .XM-pink p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+margin-top: 5px;
+text-align: center;
+color: rgba(29, 31, 46, 0.7);
+}
+
+
+
+.XM-products  .XM-mug{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+.XM-products .XM-mug .XM-hr2 {
+    width: 30px;
+    height: 1px;
+    margin: 8px;
+    background: #cacacb;
+}
+.XM-products .XM-mug h1{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 0px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #1D1F2E;
+}
+.XM-products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.XM-cups .XM-orange span{
+    font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+text-align: center;
+text-decoration-line: line-through;
+color: rgba(29, 31, 46, 0.4);
+}
+.XM-cups .XM-orange p{
+    font-weight: 400;
+font-size: 19px;
+line-height: 32px;
+text-align: center;
+color: #A25F4B;
+}
+.XM-cups .XM-orange h1{
+    font-weight: 400;
+    margin-top: 35px;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #1D1F2E;
+}
+.XM-cups .XM-orange {
+    margin-bottom: 65px;
+}
+.XM-cups{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 17px;
+}
